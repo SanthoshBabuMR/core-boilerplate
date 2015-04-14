@@ -28,7 +28,6 @@
 			, "domReady"			:	"lib/requirejs/plugin/domReady"
 			, "jquery"				:	"lib/jquery/jquery"
 			, "_"					:	"lib/underscore/underscore"
-			, "bootstrap"           : 	"lib/bootstrap/bootstrap"
 
 			// modules
 			, "main"				: 	"modules/main"

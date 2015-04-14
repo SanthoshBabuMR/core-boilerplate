@@ -1,7 +1,6 @@
 Purpose/Name of the application
 
 **Dependencies**
-* grunt
 * grunt-contrib-connect
 
 **Launching server from grunt**

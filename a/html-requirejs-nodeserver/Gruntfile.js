@@ -8,7 +8,7 @@ module.exports = function( grunt ) {
 			appServer: {
 			// appServer begin
 				options: {
-					  protocol: "https"
+					  protocol: "http"
 					, hostname: "localhost"
 					, port: 6234
 					, base: "."

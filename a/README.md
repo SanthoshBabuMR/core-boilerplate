@@ -1,10 +1,9 @@
 Boilerplate(s) for quick and easy use.
 
 **CSS**
-* bootstrap
+* no third-party libraries / framework
 
 **JavaScript**
 * requireJS
 * jQuery
 * underscore
-* Bootstrap
